@@ -1,0 +1,26 @@
+{
+  "name": "eslint-config",
+  "version": "1.0.0",
+  "description": "Personal eslint rules config",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint test/*.test.js lib *.js",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samhanx/eslint-config.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samhanx/eslint-config/issues"
+  },
+  "homepage": "https://github.com/Samhanx/eslint-config#readme",
+  "devDependencies": {
+    "coffee": "^5.2.1",
+    "eslint": "^5.16.0",
+    "mocha": "^6.1.4"
+  }
+}
