@@ -1,6 +1,6 @@
 {
-  "name": "eslint-config",
-  "version": "1.0.0",
+  "name": "@samhanx/eslint-config",
+  "version": "0.0.0",
   "description": "Personal eslint rules config",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,12 @@
     "type": "git",
     "url": "git+https://github.com/Samhanx/eslint-config.git"
   },
-  "keywords": ["eslint", "eslint-config", "rules", "node"],
+  "keywords": [
+    "eslint",
+    "eslint-config",
+    "rules",
+    "node"
+  ],
   "author": "Hanx",
   "license": "ISC",
   "bugs": {
@@ -22,5 +27,10 @@
     "coffee": "^5.2.1",
     "eslint": "^5.16.0",
     "mocha": "^6.1.4"
-  }
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {}
 }
