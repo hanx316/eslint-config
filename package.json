@@ -11,8 +11,8 @@
     "type": "git",
     "url": "git+https://github.com/Samhanx/eslint-config.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["eslint", "eslint-config", "rules", "node"],
+  "author": "Hanx",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Samhanx/eslint-config/issues"
